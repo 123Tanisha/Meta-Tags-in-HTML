@@ -1,16 +1,5 @@
 # Meta-Tags-in-HTML
 All the meta tags 
-<!DOCTYPE html>
-<html>
-    <head>
-  <meta id="charset" charset="UTF-8">
-  <meta id="description" name="description" content="Free Web tutorials">
-  <meta name="keywords" content="HTML, CSS, JavaScript">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-</head>
-    <body>
-    </body>
-</html>
 
 <ul>
   <li>The <strong>charset attribute</strong> specifies the character encoding for the HTML document.<br>
